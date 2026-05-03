@@ -81,7 +81,7 @@ The lab was divided into several key components:
 
 1. Open the Jupyter Notebook:
 
-L02_Hoang_Dinh_ITAI4374.ipynb
+ "L02_Hoang_Dinh_ITAI4374.ipynb"
 
 2. Run all cells in order  
 3. Observe how the voting process evolves and reaches consensus  
